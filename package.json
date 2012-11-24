@@ -1,0 +1,12 @@
+{
+  "name": "dombie-walk",
+  "version": "0.0.0",
+  "description": "recursively walk a dombie tree and call a function for each node",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shtylman/node-dombie-walk.git"
+  },
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT"
+}
